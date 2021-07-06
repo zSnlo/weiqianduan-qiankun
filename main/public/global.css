@@ -1,0 +1,46 @@
+body{
+    margin:0px;
+    background-color: #eee;
+    color:#333;
+    font-size: .875rem;
+    font-weight: 400;
+    line-height: 1.5715;
+}
+
+a {
+    color: #348fe4;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+
+a:hover {
+    text-decoration: underline;
+    background-color: transparent;
+}
+
+.avatar32{
+    background-color:rgb(93, 207, 255);
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.avatar48{
+    background-color:rgb(93, 207, 255);
+    border-radius: 50%;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-weight: 400;
+    font-size: 16px;
+}
